@@ -1,0 +1,335 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"O",
+				"OpenHours"
+			],
+			[
+				"est",
+				"establishiment_types"
+			],
+			[
+				"food",
+				"food_types"
+			],
+			[
+				"__",
+				"__all__"
+			],
+			[
+				"pr",
+				"profiles_supplement〔variable〕"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"Bu",
+				"BusInfoForm〔module〕"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"model",
+				"models.CharField"
+			],
+			[
+				"ma",
+				"max_length"
+			],
+			[
+				"mode",
+				"models.CharField"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"pos",
+				"post_delete	function"
+			],
+			[
+				"po",
+				"post_create	function"
+			],
+			[
+				"p",
+				"post_list	function"
+			],
+			[
+				"post",
+				"post_create	function"
+			],
+			[
+				"He",
+				"HttpResponse	import"
+			],
+			[
+				"list",
+				"list_display	statement"
+			],
+			[
+				"Pos",
+				"PostModelAdmin	class"
+			],
+			[
+				"au",
+				"auto_now_add"
+			],
+			[
+				"Post",
+				"PostAdmin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tests.py",
+			"settings":
+			{
+				"buffer_size": 60,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 243.0,
+		"last_filter": "pci",
+		"selected_items":
+		[
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"pc",
+				"Package Control: List Packages"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/muammarjohnson/enviornments/epicwednesday/src",
+		"/Users/muammarjohnson/enviornments/epicwednesday/src/businesslocation/migrations"
+	],
+	"file_history":
+	[
+		"/Users/muammarjohnson/enviornments/epicwednesday/src/.gitignore",
+		"/Users/muammarjohnson/enviornments/epicWednesdayWebsite/epicWednesday/src/user/urls.py",
+		"/Users/muammarjohnson/enviornments/epicWednesdayWebsite/epicWednesday/src/business/models.py",
+		"/Users/muammarjohnson/enviornments/epicWednesdayWebsite/epicWednesday/src/user/models.py",
+		"/Users/muammarjohnson/enviornments/epicWednesdayWebsite/epicWednesday/src/user/views.py",
+		"/Users/muammarjohnson/enviornments/epicWednesdayWebsite/epicWednesday/src/epicWednesday/urls.py",
+		"/Users/muammarjohnson/enviornments/epicWednesdayWebsite/epicWednesday/src/business/views.py",
+		"/Users/muammarjohnson/enviornments/epicWednesdayWebsite/epicWednesday/src/business/urls.py",
+		"/Users/muammarjohnson/enviornments/epicWednesdayWebsite/epicWednesday/src/epicWednesday/settings.py",
+		"/Users/muammarjohnson/enviornments/practice/src/census/forms.py",
+		"/Users/muammarjohnson/enviornments/practice/src/governmentdata/urls.py",
+		"/Users/muammarjohnson/enviornments/practice/src/census/models.py",
+		"/Users/muammarjohnson/enviornments/practice/src/census/templates/census/home.html",
+		"/Users/muammarjohnson/enviornments/practice/src/census/views.py",
+		"/Users/muammarjohnson/enviornments/practice/src/governmentdata/settings.py",
+		"/Users/muammarjohnson/enviornments/practice/src/census/migrations/0002_auto_20160628_0649.py",
+		"/Users/muammarjohnson/enviornments/practice/src/census/migrations/0002_auto_20160628_0642.py",
+		"/Users/muammarjohnson/enviornments/entp/entpenv/src/posts/urls.py",
+		"/Users/muammarjohnson/enviornments/entp/entpenv/src/trydjango19/settings.py",
+		"/Users/muammarjohnson/enviornments/entp/entpenv/src/posts/Templates/posts/index.html",
+		"/Users/muammarjohnson/enviornments/entp/entpenv/src/posts/admin.py",
+		"/Users/muammarjohnson/enviornments/entp/entpenv/src/posts/views.py",
+		"/Users/muammarjohnson/enviornments/entp/entpenv/src/posts/models.py",
+		"/Users/muammarjohnson/enviornments/entp/entpenv/src/trydjango19/urls.py",
+		"/Users/muammarjohnson/enviornments/entp/entpenv/src/db.sqlite3",
+		"/Users/muammarjohnson/enviornments/trydjango19/src/trydjango19/urls.py",
+		"/Users/muammarjohnson/enviornments/trydjango19/src/posts/models.py",
+		"/Users/muammarjohnson/enviornments/trydjango19/src/posts/admin.py",
+		"/Users/muammarjohnson/enviornments/trydjango19/src/posts/views.py",
+		"/Users/muammarjohnson/enviornments/trydjango19/src/trydjango19/settings.py",
+		"/Users/muammarjohnson/enviornments/trydjango19/src/url.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"WEEKDAYS",
+			"BusInfo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tests.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 60,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "business.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
